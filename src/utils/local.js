@@ -1,0 +1,7 @@
+// TODO: create in root folder .env.local and copy the code into it
+// REACT_APP_FIREBASE_API_KEY = AIzaSyCGB3WKo6c3zFrGhJ4IMNTR2Lx3VjqUapA
+// REACT_APP_FIREBASE_AUTH_DOMAIN = authorization-568e5.firebaseapp.com
+// REACT_APP_FIREBASE_PROJECT_ID = authorization-568e5
+// REACT_APP_FIREBASE_STORAGE_BUCKET = authorization-568e5.appspot.com
+// REACT_APP_FIREBASE_MESSAGING_SENDER_ID = 1075155370928
+// REACT_APP_FIREBASE_APP_ID = 1:1075155370928:web:d9e32b811bf8244e268c75
